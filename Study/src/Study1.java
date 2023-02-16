@@ -17,7 +17,6 @@ public class Study1 {
             System.out.print("일치");
         } else {
             System.out.print("불일치");
-
         }
 
         keyboard.close();
